@@ -1,13 +1,13 @@
 <img src="https://github.com/Prabhav27/Prabhav27/blob/main/github-header-image%20(2).png">
 
 
-
-<h1 align="center">Hi 👋, I'm Prabhav Bakliwal</h1>
-<h3 align="center">🎓Computer Science Undergrad at NIT Bhopal</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhav27&label=Profile%20views&color=0e75b6&style=flat" alt="prabhav27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhav27" alt="prabhav27" /></a> </p>
+
+- Hi 👋, I'm Prabhav Bakliwal
+
+- 🎓Computer Science Undergrad at NIT Bhopal
 
 - 🔭Currently working on **Web Dev**
 
