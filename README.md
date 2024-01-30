@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhav27&label=Profile%20views&color=0e75b6&style=flat" alt="prabhav27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhav27" alt="prabhav27" /></a> </p>
 
 - Hi 👋, I'm Prabhav Bakliwal
 
@@ -27,5 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhav27&show_icons=true&locale=en&layout=compact" alt="prabhav27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhav27&show_icons=true&locale=en" alt="prabhav27" /></p>
 
